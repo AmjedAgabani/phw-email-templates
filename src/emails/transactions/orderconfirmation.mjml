@@ -1,0 +1,325 @@
+<mjml>
+
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+    </mj-attributes>
+    <mj-preview>Order confirmation for order #1234567890123</mj-preview>
+    <mj-style>
+      @media (min-width: 480px) {
+      .hidden-desktop {
+      display: none
+      }
+      }
+
+      @media (max-width: 480px) {
+      .hidden-mobile {
+      display: none;
+      }
+      }
+
+      @media (min-width: 480px) {
+      .desktop-padding > table > tbody > tr > td {
+      padding: 0 100px !important;
+      }
+      }
+      @media (min-width: 480px) {
+      .account-button > table > tbody > tr > td {
+      height: 50px !important;
+      }
+      }
+
+      @media (min-width: 480px) {
+      .order-item-font-size-desktop > div {
+      font-size: 16px !important;
+      }
+      }
+
+      @media (min-width: 480px) {
+      .order-item-align-desktop > table > tbody > tr > td > table > tbody > tr > td > div {
+      text-align: left !important;
+      }
+      }
+
+      @media (min-width: 480px) {
+      .order-item-padding-desktop > table > tbody > tr > td {
+      padding: 0 55px 0 45px !important;
+      }
+      }
+    </mj-style>
+    <mj-title>Order confirmation for order #1234567890123</mj-title>
+  </mj-head>
+
+  <mj-body background-color="#f4f4f4" width="746px">
+
+    <!-- Logo -->
+
+    <mj-section>
+      <mj-column>
+        <mj-spacer css-class="hidden-desktop" height="23px" />
+        <mj-spacer css-class="hidden-mobile" height="60px" />
+        <mj-image href="#" src="https://ci4.googleusercontent.com/proxy/Pr0lwCeR-sWwaMI6dwBPsETpk1hSCudIcpeMN_VkRs2IAnxgusnqjJOyat32ySqFeE2nDFDhapoQq8AXTumyDkP_OERHjFF1OQ8MuWeptSNF38NHAZxxFfKRvn7VULsOGRBLSUUYJ950CL8JDZzEe0fsHPlVPeUMauOOqzgkHMH-=s0-d-e1-ft#https://commerce-prd.logitech.com/on/demandware.static/Sites-GB-Site/-/default/dwa90d573c/images/logitechg.png" width="230px" />
+        <mj-spacer css-class="hidden-desktop" height="23px" />
+        <mj-spacer css-class="hidden-mobile" height="36px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Body text -->
+
+    <mj-section background-color="#fff" padding="0 15px" css-class="desktop-padding">
+      <mj-column>
+        <mj-spacer css-class="hidden-desktop" height="19px" />
+        <mj-spacer css-class="hidden-mobile" height="60px" />
+        <mj-text align="center" color="#000" font-family="Arial" font-size="24px" font-weight="700" line-height="29px" text-transform="uppercase">
+          John, your order is in
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-text align="center" color="#2f3132" font-family="Arial" font-size="16px" font-weight="300" line-height="22px">
+          Thanks for your order <a style="font-weight:700">#1234567890123</a>, purchased on April 9, 2023 . Look for tracking information in your inbox soon.
+        </mj-text>
+        <mj-spacer css-class="hidden-desktop" height="19px" />
+        <mj-spacer css-class="hidden-mobile" height="30px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Delivery details -->
+
+    <mj-wrapper background-color="#fff" padding="0 15px" css-class="desktop-padding">
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" color="#fff" container-background-color="#2e3232" font-family="Arial" font-size="14px" font-weight="700" line-height="18px" padding="10px" text-transform="uppercase">
+            Delivery details
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fff" border-bottom="1px solid #c7c9cb" border-left="1px solid #c7c9cb" border-right="1px solid #c7c9cb" padding-left="20px">
+        <mj-column>
+          <mj-spacer height="20px" />
+          <mj-text color="#000" font-family="Arial" font-size="16px" font-weight="700" line-height="22px">
+            Shipped to
+          </mj-text>
+          <mj-spacer height="15px" />
+          <mj-text color="#000" font-family="Arial" font-size="16px" font-weight="300" line-height="22px">
+            John Smith</br>
+            12 South Street</br>
+            London NW16 3KQ
+          </mj-text>
+          <mj-spacer height="20px" />
+        </mj-column>
+        <mj-column>
+          <mj-spacer height="20px" />
+          <mj-text color="#000" font-family="Arial" font-size="16px" font-weight="700" line-height="22px">
+            Billed to
+          </mj-text>
+          <mj-spacer height="15px" />
+          <mj-text color="#000" font-family="Arial" font-size="16px" font-weight="300" line-height="22px">
+            John Smith</br>
+            12 South Street</br>
+            London NW16 3KQ
+          </mj-text>
+          <mj-spacer height="20px" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-spacer css-class="hidden-desktop" height="15px" />
+        <mj-spacer css-class="hidden-mobile" height="30px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Order items -->
+
+    <mj-wrapper background-color="#fff" padding="0 15px" css-class="desktop-padding">
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" color="#fff" container-background-color="#2e3232" font-family="Arial" font-size="14px" font-weight="700" line-height="18px" padding="10px" text-transform="uppercase">
+            Order items
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #c7c9cb" border-right="1px solid #c7c9cb">
+        <mj-column>
+          <mj-spacer css-class="hidden-desktop" height="63px" />
+          <mj-spacer css-class="hidden-mobile" height="29px" />
+        </mj-column>
+      </mj-section>
+      <mj-section border-left="1px solid #c7c9cb" border-right="1px solid #c7c9cb" css-class="order-item-padding-desktop">
+        <mj-column>
+          <mj-image src="https://ci3.googleusercontent.com/proxy/XVdiJilvufDwrW0xj6XzANRfTuN4vKS4JWJIuEAYTZScP0H_0dk6Bu2dRrRNXN_ria_8NDJpBnMjlG5LlYqdBpfdw965N9Jl84Lsd2k2fd5YnZDPfXErSXW072EVDJdSRlhFk3jhE0aKWyidaXXLRmapjcbDXz_OS9L8=s0-d-e1-ft#https://resource.logitech.com/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-1.png" width="130px" />
+          <mj-spacer height="45px" />
+        </mj-column>
+        <mj-column css-class="order-item-align-desktop">
+          <mj-text align="center" color="#697172" font-family="Arial" font-size="13px" font-weight="700" line-height="18px" text-transform="uppercase">
+            Logitech G
+          </mj-text>
+          <mj-spacer height="12px" />
+          <mj-text align="center" color="#2f3132" css-class="order-item-font-size-desktop" font-family="Arial" font-size="13px" font-weight="700" line-height="22px" text-transform="uppercase">
+            Pro X Keyboard - Black US International Linear
+          </mj-text>
+          <mj-spacer height="11px" />
+          <mj-text align="center" color="#697172" font-family="Arial" font-size="13px" font-weight="400" line-height="19px">
+            Color: Black
+            </br>
+            Quantity: 1
+          </mj-text>
+          <mj-spacer height="21px" />
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" color="#2f3132" font-family="Arial" font-size="16px" font-weight="300" line-height="17px">
+            £89.09 <span style="color:#697172;font-size:13px;line-height:17px;text-decoration:line-through;">£109.99</span>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Order item divider -->
+
+    <mj-wrapper background-color="#fff" padding="0 15px" css-class="desktop-padding">
+      <mj-section border-left="1px solid #c7c9cb" border-right="1px solid #c7c9cb" css-class="order-item-padding-desktop" padding="0 11px">
+        <mj-column>
+          <mj-spacer css-class="hidden-desktop" height="26px" />
+          <mj-spacer css-class="hidden-mobile" height="8px" />
+          <mj-divider border-color="#e1e2e3" border-width="2px" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Order table -->
+
+    <mj-wrapper background-color="#fff" padding="0 15px" css-class="desktop-padding">
+      <mj-section border-bottom="1px solid #c7c9cb" border-left="1px solid #c7c9cb" border-right="1px solid #c7c9cb" padding="0 11px">
+        <mj-column css-class="hidden-mobile" width="20%">
+        </mj-column>
+        <mj-column>
+          <!-- <mj-spacer css-class="hidden-desktop" height="26px" />
+          <mj-spacer css-class="hidden-mobile" height="8px" />
+          <mj-divider border-color="#e1e2e3" border-width="2px" /> -->
+          <mj-spacer height="18px" />
+          <mj-table>
+            <tr>
+              <th style="color:#697172;font-family:Arial,sans-serif;font-size:12px;font-weight:700;line-height:18px;padding:0 0 6px 0;text-align:left;text-transform:uppercase">Subtotal</th>
+              <td style="color:#697172;font-family:Arial,sans-serif;font-size:12px;font-weight:700;line-height:18px;padding:0 0 6px 0;text-align:right;text-transform:uppercase">£89.09</td>
+            </tr>
+            <tr>
+              <th style="color:#697172;font-family:Arial,sans-serif;font-size:12px;font-weight:700;line-height:18px;padding:0 0 6px 0;text-align:left;text-transform:uppercase">Discount(s)</th>
+              <td style="color:#697172;font-family:Arial,sans-serif;font-size:12px;font-weight:700;line-height:18px;padding:0 0 6px 0;text-align:right;text-transform:uppercase">£0.00</td>
+            </tr>
+            <tr>
+              <th style="color:#697172;font-family:Arial,sans-serif;font-size:12px;font-weight:700;line-height:18px;padding:0 0 6px 0;text-align:left;text-transform:uppercase">Shipping</th>
+              <td style="color:#697172;font-family:Arial,sans-serif;font-size:12px;font-weight:700;line-height:18px;padding:0 0 6px 0;text-align:right;text-transform:uppercase">£0.00</td>
+            </tr>
+            <tr>
+              <th style="color:#2f3132;font-family:Arial,sans-serif;font-size:12px;font-weight:700;line-height:18px;padding:0 0 6px 0;text-align:left;text-transform:uppercase">Total</th>
+              <td style="color:#2f3132;font-family:Arial,sans-serif;font-size:12px;font-weight:700;line-height:18px;padding:0 0 6px 0;text-align:right;text-transform:uppercase">£89.09</td>
+            </tr>
+          </mj-table>
+          <mj-spacer css-class="hidden-desktop" height="22px" />
+          <mj-spacer css-class="hidden-mobile" height="30px" />
+          <mj-button background-color="#00b8fc" border-radius="3px" color="#000000" css-class="account-button" font-family="Arial" font-size="14px" font-weight="700" height="38px" href="#" letter-spacing="1px" line-height="18px" text-transform="uppercase" width="100%">
+            See your account
+          </mj-button>
+          <mj-spacer height="10px" />
+          <mj-text align="center" color="#697172" font-family="Arial" font-size="13px" font-weight="300" letter-spacing="-0.2px" line-height="18px">
+            Don't have an account? Look up your order <a href="#" style="color:#697172">here</a>.<br />
+            Guest access code: L0g1t3ch
+          </mj-text>
+          <mj-spacer css-class="hidden-desktop" height="17px" />
+          <mj-spacer css-class="hidden-mobile" height="21px" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Support link -->
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-spacer css-class="hidden-desktop" height="20px" />
+        <mj-spacer css-class="hidden-mobile" height="30px" />
+        <mj-text>
+          <table align="center">
+            <tr>
+              <td>
+                <img src="https://ci3.googleusercontent.com/proxy/Haqo-L4Z97C3Z-lbAVWfkbJxulsyzdIwmu9P8cWlIrLWNCTbKY7W8LQjo8cXWTnfEb6DDf6UHPb6Ctn6ihCn-4t1YZIeyZz-osG12-4pCEsSh7IkRI-WVtGC64Bh4Df2o8gC6rkeh_gVXAmGTAIby18t6wzQKCUHZiHBS-f41A=s0-d-e1-ft#https://commerce-prd.logitech.com/on/demandware.static/Sites-GB-Site/-/default/dw65a02e6f/images/message.png" width="25px" />
+              </td>
+              <td style="width:7px">
+              </td>
+              <td style="color:#2f3132;font-family:Arial;font-size:13px;font-weight:300;line-height:22px;">
+                Questions? We're here to help. <a href="#" style="color:#2f3132;font-weight:400">Contact support.</a>
+              </td>
+            </tr>
+          </table>
+        </mj-text>
+        <mj-spacer css-class="hidden-desktop" height="30px" />
+        <mj-spacer css-class="hidden-mobile" height="60px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Socials -->
+
+    <mj-section>
+      <mj-column>
+        <mj-spacer css-class="hidden-desktop" height="15px" />
+        <mj-spacer css-class="hidden-mobile" height="40px" />
+        <mj-social icon-size="28px" icon-padding="0 8.5px" mode="horizontal">
+          <mj-social-element href="#" src="https://ci3.googleusercontent.com/proxy/yluBiS-19_JSAt0TjY2lCLQIg5-8jDalvDqRlk0pmjcbhC93I3_pVvlONxVnME7UhxxhdJKQjGbLBHV4E5JPdfJpkWTjF-t_YMjIngaIgyvJktiznvBBSPGb0hDDCYEe0x7RJNwu_CQdZHotUtMNIIWUOExmKbWVYpdiE2N6lm7M=s0-d-e1-ft#https://logitech-mkt-stage1-res.adobe-campaign.com/res/logitec_mkt_stage1/068eafa9496518761ba43508ab3beaf4.png">
+          </mj-social-element>
+          <mj-social-element href="#" src="https://ci4.googleusercontent.com/proxy/joTwZ3wmuPotbkQ29MaIX04eRnueFE8jUcLXe7Tnmtn7USHwoTcGb-y44rPJ8jMk9E59dLcXDatKUXLr5iQEN-itdNMF-6ryn0SnjJsgAiX5Ui2M06GRWJuD6dmacTBMGTbZAj18HZVxGfSbgoJAds_N_aSv-gLyfLjrdT3fiJz7=s0-d-e1-ft#https://logitech-mkt-stage1-res.adobe-campaign.com/res/logitec_mkt_stage1/6e3be45e39817dc226dabe28b9e31ee7.png">
+          </mj-social-element>
+          <mj-social-element href="#" src="https://ci5.googleusercontent.com/proxy/5xJGxDy8XBWVeSOZtMaaqxUwZnzlZrB-tys9WiRpD2A64NwQngpZDORoHsBLkvQS896sUn8RPyKY08RIsBAmhGdPXTtXqPMQhaSESYdvSKGseZFLfFJXQvNq99V-Qj1y7WozjjERAGRpyLeZNo5aGbhpKiqCLQUk7jYglwD5Z8ah=s0-d-e1-ft#https://logitech-mkt-stage1-res.adobe-campaign.com/res/logitec_mkt_stage1/95691ba7836bf62203198ae14dbca071.png">
+          </mj-social-element>
+          <mj-social-element href="#" src="https://ci3.googleusercontent.com/proxy/Qd07Za0vhqEp9jNULhu2aDjOEHX9hP4W4AQLAuoWMRL7HwqjDDF5IgbTOKj_DzhaFClf2HuW4J-EJBb47QoO5KxdScrgbgW9LQOBjD4x-PxjNq9X6gqSECW28mdAkeeyyxX9AVRJX00qI5cI4r5VDJp8dvkFuhEDx3otK52NIBCk=s0-d-e1-ft#https://logitech-mkt-stage1-res.adobe-campaign.com/res/logitec_mkt_stage1/836827707c5324a4f9354b844d8cf44b.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-spacer height="30px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Regulatory Statement -->
+
+    <mj-section padding="0 15px">
+      <mj-column>
+        <mj-text align="center" color="#697172" font-size="13px" line-height="18px">
+          <a href="#" style="color:#697172">Digital River UK</a>. is the authorized reseller and merchant of the products and services offered within this store.
+        </mj-text>
+        <mj-spacer height="10px" />
+        <mj-text align="center" color="#697172" font-size="13px" font-weight="400px" line-height="18px">
+          <a href="#" style="color:#697172;padding:0 5px">Privacy Policy</a>|
+          <a href="#" style="color:#697172;padding:0 5px">Terms of sale</a>|
+          <a href="#" style="color:#697172;padding:0 5px">Cookies</a>|
+          <a href="#" style="color:#697172;padding:0 5px">Cancellation Right</a>|
+          <a href="#" style="color:#697172;padding:0 5px">Legal Notice</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Sponsors -->
+    <mj-section padding="0 15px">
+      <mj-column>
+        <mj-spacer css-class="hidden-desktop" height="27px" />
+        <mj-spacer css-class="hidden-mobile" height="35px" />
+        <mj-social align="center" icon-height="20px" mode="horizontal">
+          <mj-social-element src="https://ci4.googleusercontent.com/proxy/2j7N3NzgCP0GX8oWGalvlYy7exJ1E63Dx6XCGX83R99vTn0YtVnv3Y8k34jU4Gb_aHVlsWGWDxnj6Sd8qYSlKAQMawTvFUwNdN0WIMoiz0xEtXjWRT8KqsmvKcsb2CY=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/logitech.png" icon-padding="5px 34px 0 0" icon-size="39.6px">
+          </mj-social-element>
+          <mj-social-element src="https://ci5.googleusercontent.com/proxy/WmgzjSpHJtAkSfSCf_CfxQVprjuGodXH2eU4nYNeAQ043GarJVM6crc_JYichnVXXzOKbWbHKoVBWE76JfbOg7L6GPR3oKEiWF7hIxb3bFBrBltnHQsDkS-egj1jWina=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/logitechG.png" icon-padding="5px 34px 0 0" icon-size="57.16px">
+          </mj-social-element>
+          <mj-social-element src="https://ci6.googleusercontent.com/proxy/uLSmUES6sEyGyaTUEcQaHJtyRDHxjzHc1S1xf_FbweruC4w0owih0mW5gguwvTSTetZFLfuYFB8badkOwQ7lyVvC_WHktP-KxW1OgB4NY9UZR1663NfBY86m_Jc=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/astro.png" icon-padding="5px 34px 0 0" icon-size="50px">
+          </mj-social-element>
+          <mj-social-element src="https://ci5.googleusercontent.com/proxy/kloR-wgkwqFhDIzudylHMehFDdMCnYePKKW-1ojLq4Fy1QvMxUioekD6sjBejIV8TOM1eLUX-WOt8u1JUoxqZCjk8kIUQ1Xe_Ab-oTluYOymXkDpSv7EjsbQPg=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/blue.png" icon-padding="5px 34px 0 0" icon-size="27px">
+          </mj-social-element>
+          <mj-social-element src="https://ci4.googleusercontent.com/proxy/kwq79C20G_QyhfBDf4c4MMnK7YBHXPgihYyPJQJJS0hoGS9dFz4JdEairDjwNe3MSIPopqpTcNPas9fV6gbIS8it0bbXUgR7-DTEltcv1cEIOfNOzUFhbDznAHBZMW8G-Q=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/streamlabs.png" icon-padding="5px 34px 0 0" icon-size="81.97px">
+          </mj-social-element>
+          <mj-social-element src="https://ci5.googleusercontent.com/proxy/deeKgFjrgHJ8n4UDxHuOM-Sd33GUnhp4qC6Rq2M2LA_5C-p0E_0xnDAPwhio-3nWNZZ8x68XtqOcOV5q24CHjU5NGX7MgmNPYomu_Xrz8d6Ecpcl8CVfJBqXUCjYxdLGarTc5w=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/ultimate-ears.png" icon-padding="5px 34px 0 0" icon-size="41.94px">
+          </mj-social-element>
+          <mj-social-element src="https://ci5.googleusercontent.com/proxy/OSK-tfdiJDS_ufXBRjQIBsBzBoWGZKOXHs4fowjwzdQJNrgiz8m6rUq44QvJEGobaXrs_cZtVAqIw_TPEVnQfkL1EFknp7YAY9ceWS8LnaGnX2UBr0-sc_oR1UEYQw=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/jaybird.png" icon-padding="5px 34px 0 0" icon-size="66px">
+          </mj-social-element>
+        </mj-social>
+        <mj-spacer css-class="hidden-desktop" height="34px" />
+        <mj-spacer css-class="hidden-mobile" height="40px" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+
+</mjml>
