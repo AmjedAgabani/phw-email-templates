@@ -1,0 +1,17 @@
+<mj-section>
+  <mj-column>
+    <mj-spacer css-class="hidden-desktop" height="15px" />
+    <mj-spacer css-class="hidden-mobile" height="40px" />
+    <mj-social icon-size="28px" icon-padding="0 8.5px" mode="horizontal">
+      <mj-social-element href="#" src="https://ci3.googleusercontent.com/proxy/yluBiS-19_JSAt0TjY2lCLQIg5-8jDalvDqRlk0pmjcbhC93I3_pVvlONxVnME7UhxxhdJKQjGbLBHV4E5JPdfJpkWTjF-t_YMjIngaIgyvJktiznvBBSPGb0hDDCYEe0x7RJNwu_CQdZHotUtMNIIWUOExmKbWVYpdiE2N6lm7M=s0-d-e1-ft#https://logitech-mkt-stage1-res.adobe-campaign.com/res/logitec_mkt_stage1/068eafa9496518761ba43508ab3beaf4.png">
+      </mj-social-element>
+      <mj-social-element href="#" src="https://ci4.googleusercontent.com/proxy/joTwZ3wmuPotbkQ29MaIX04eRnueFE8jUcLXe7Tnmtn7USHwoTcGb-y44rPJ8jMk9E59dLcXDatKUXLr5iQEN-itdNMF-6ryn0SnjJsgAiX5Ui2M06GRWJuD6dmacTBMGTbZAj18HZVxGfSbgoJAds_N_aSv-gLyfLjrdT3fiJz7=s0-d-e1-ft#https://logitech-mkt-stage1-res.adobe-campaign.com/res/logitec_mkt_stage1/6e3be45e39817dc226dabe28b9e31ee7.png">
+      </mj-social-element>
+      <mj-social-element href="#" src="https://ci5.googleusercontent.com/proxy/5xJGxDy8XBWVeSOZtMaaqxUwZnzlZrB-tys9WiRpD2A64NwQngpZDORoHsBLkvQS896sUn8RPyKY08RIsBAmhGdPXTtXqPMQhaSESYdvSKGseZFLfFJXQvNq99V-Qj1y7WozjjERAGRpyLeZNo5aGbhpKiqCLQUk7jYglwD5Z8ah=s0-d-e1-ft#https://logitech-mkt-stage1-res.adobe-campaign.com/res/logitec_mkt_stage1/95691ba7836bf62203198ae14dbca071.png">
+      </mj-social-element>
+      <mj-social-element href="#" src="https://ci3.googleusercontent.com/proxy/Qd07Za0vhqEp9jNULhu2aDjOEHX9hP4W4AQLAuoWMRL7HwqjDDF5IgbTOKj_DzhaFClf2HuW4J-EJBb47QoO5KxdScrgbgW9LQOBjD4x-PxjNq9X6gqSECW28mdAkeeyyxX9AVRJX00qI5cI4r5VDJp8dvkFuhEDx3otK52NIBCk=s0-d-e1-ft#https://logitech-mkt-stage1-res.adobe-campaign.com/res/logitec_mkt_stage1/836827707c5324a4f9354b844d8cf44b.png">
+      </mj-social-element>
+    </mj-social>
+    <mj-spacer height="30px" />
+  </mj-column>
+</mj-section>

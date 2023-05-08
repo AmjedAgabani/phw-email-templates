@@ -1,0 +1,24 @@
+<mj-section padding="0 15px">
+  <mj-column>
+    <mj-spacer css-class="hidden-desktop" height="27px" />
+    <mj-spacer css-class="hidden-mobile" height="35px" />
+    <mj-social align="center" icon-height="20px" mode="horizontal">
+      <mj-social-element src="https://ci4.googleusercontent.com/proxy/2j7N3NzgCP0GX8oWGalvlYy7exJ1E63Dx6XCGX83R99vTn0YtVnv3Y8k34jU4Gb_aHVlsWGWDxnj6Sd8qYSlKAQMawTvFUwNdN0WIMoiz0xEtXjWRT8KqsmvKcsb2CY=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/logitech.png" icon-padding="5px 34px 0 0" icon-size="39.6px">
+      </mj-social-element>
+      <mj-social-element src="https://ci5.googleusercontent.com/proxy/WmgzjSpHJtAkSfSCf_CfxQVprjuGodXH2eU4nYNeAQ043GarJVM6crc_JYichnVXXzOKbWbHKoVBWE76JfbOg7L6GPR3oKEiWF7hIxb3bFBrBltnHQsDkS-egj1jWina=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/logitechG.png" icon-padding="5px 34px 0 0" icon-size="57.16px">
+      </mj-social-element>
+      <mj-social-element src="https://ci6.googleusercontent.com/proxy/uLSmUES6sEyGyaTUEcQaHJtyRDHxjzHc1S1xf_FbweruC4w0owih0mW5gguwvTSTetZFLfuYFB8badkOwQ7lyVvC_WHktP-KxW1OgB4NY9UZR1663NfBY86m_Jc=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/astro.png" icon-padding="5px 34px 0 0" icon-size="50px">
+      </mj-social-element>
+      <mj-social-element src="https://ci5.googleusercontent.com/proxy/kloR-wgkwqFhDIzudylHMehFDdMCnYePKKW-1ojLq4Fy1QvMxUioekD6sjBejIV8TOM1eLUX-WOt8u1JUoxqZCjk8kIUQ1Xe_Ab-oTluYOymXkDpSv7EjsbQPg=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/blue.png" icon-padding="5px 34px 0 0" icon-size="27px">
+      </mj-social-element>
+      <mj-social-element src="https://ci4.googleusercontent.com/proxy/kwq79C20G_QyhfBDf4c4MMnK7YBHXPgihYyPJQJJS0hoGS9dFz4JdEairDjwNe3MSIPopqpTcNPas9fV6gbIS8it0bbXUgR7-DTEltcv1cEIOfNOzUFhbDznAHBZMW8G-Q=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/streamlabs.png" icon-padding="5px 34px 0 0" icon-size="81.97px">
+      </mj-social-element>
+      <mj-social-element src="https://ci5.googleusercontent.com/proxy/deeKgFjrgHJ8n4UDxHuOM-Sd33GUnhp4qC6Rq2M2LA_5C-p0E_0xnDAPwhio-3nWNZZ8x68XtqOcOV5q24CHjU5NGX7MgmNPYomu_Xrz8d6Ecpcl8CVfJBqXUCjYxdLGarTc5w=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/ultimate-ears.png" icon-padding="5px 34px 0 0" icon-size="41.94px">
+      </mj-social-element>
+      <mj-social-element src="https://ci5.googleusercontent.com/proxy/OSK-tfdiJDS_ufXBRjQIBsBzBoWGZKOXHs4fowjwzdQJNrgiz8m6rUq44QvJEGobaXrs_cZtVAqIw_TPEVnQfkL1EFknp7YAY9ceWS8LnaGnX2UBr0-sc_oR1UEYQw=s0-d-e1-ft#https://resource.logitech.com/d_transparent.gif/email-templates/jaybird.png" icon-padding="5px 34px 0 0" icon-size="66px">
+      </mj-social-element>
+    </mj-social>
+    <mj-spacer css-class="hidden-desktop" height="34px" />
+    <mj-spacer css-class="hidden-mobile" height="40px" />
+  </mj-column>
+</mj-section>
