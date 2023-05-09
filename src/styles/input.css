@@ -1,5 +1,13 @@
 @media (min-width: 480px) {
-  .cta-button > table > tbody > tr > td {
+  .cta-button-desktop-height > table > tbody > tr > td {
     height: 50px !important;
   }
+}
+
+.cta-button-text {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
 }

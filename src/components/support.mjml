@@ -10,8 +10,8 @@
           </td>
           <td style="width:7px">
           </td>
-          <td style="color:#2f3132;font-family:Arial;font-size:13px;font-weight:300;line-height:22px;">
-            Questions? We're here to help. <a href="#" style="color:#2f3132;font-weight:400">Contact support.</a>
+          <td class="support-text support-text-desktop dark-grey">
+            Questions? We're here to help. <a href="#" class="dark-grey">Contact support.</a>
           </td>
         </tr>
       </table>
