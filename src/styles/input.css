@@ -1,3 +1,17 @@
+.cta-button > table {
+  width: 100%;
+}
+
+.cta-button > table > tbody > tr > td {
+  height: 38px;
+  border-radius: 3px;
+}
+
+.cta-button > table > tbody > tr > td,
+.cta-button > table > tbody > tr > td > a {
+  background: #00b8fc !important;
+}
+
 @media (min-width: 480px) {
   .cta-button-desktop-height > table > tbody > tr > td {
     height: 50px !important;

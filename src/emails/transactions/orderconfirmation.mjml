@@ -174,7 +174,7 @@
           </mj-table>
           <mj-spacer css-class="hidden-desktop" height="22px" />
           <mj-spacer css-class="hidden-mobile" height="30px" />
-          <mj-button background-color="#00b8fc" border-radius="3px" css-class="cta-button-desktop-height" height="38px" href="#" width="100%">
+          <mj-button css-class="cta-button cta-button-desktop-height" href="#">
             <span class="cta-button-text black bold">See your account</span>
           </mj-button>
           <mj-spacer height="10px" />
