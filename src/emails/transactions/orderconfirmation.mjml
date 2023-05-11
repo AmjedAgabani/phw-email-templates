@@ -55,8 +55,8 @@
           <mj-spacer height="15px" />
           <mj-text>
             <span class="body-text black">
-              John Smith</br>
-              12 South Street</br>
+              John Smith<br>
+              12 South Street<br>
               London NW16 3KQ
             </span>
           </mj-text>
@@ -70,8 +70,8 @@
           <mj-spacer height="15px" />
           <mj-text>
             <span class="body-text black">
-              John Smith</br>
-              12 South Street</br>
+              John Smith<br>
+              12 South Street<br>
               London NW16 3KQ
             </span>
           </mj-text>
@@ -120,7 +120,7 @@
           <mj-text align="center">
             <span class="item-detail-text grey">
               Color: Black
-              </br>
+              <br>
               Quantity: 1
             </span>
           </mj-text>
@@ -179,7 +179,7 @@
           </mj-button>
           <mj-spacer height="10px" />
           <mj-text align="center">
-            <span class="order-status-text grey">Don't have an account? Look up your order <a href="#" class="grey">here</a>.<br />
+            <span class="order-status-text grey">Don't have an account? Look up your order <a href="#" class="grey">here</a>.<br>
               Guest access code: L0g1t3ch</span>
           </mj-text>
           <mj-spacer css-class="hidden-desktop" height="17px" />

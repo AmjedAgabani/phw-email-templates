@@ -1,3 +1,4 @@
+/* Button styling */
 .cta-button > table {
   width: 100%;
 }
@@ -17,6 +18,8 @@
     height: 50px !important;
   }
 }
+
+/* Typography */
 
 .cta-button-text {
   font-family: Arial, sans-serif;

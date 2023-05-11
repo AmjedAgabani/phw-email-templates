@@ -1,3 +1,5 @@
+/* Table typography */
+
 .table-title-text {
   font-family: Arial, sans-serif;
   font-size: 14px;
@@ -25,37 +27,10 @@
   }
 }
 
-@media (min-width: 480px) {
-  .order-items-align-desktop
-    > table
-    > tbody
-    > tr
-    > td
-    > table
-    > tbody
-    > tr
-    > td
-    > div {
-    text-align: left !important;
-  }
-}
-
-@media (min-width: 480px) {
-  .order-items-padding-desktop > table > tbody > tr > td {
-    padding: 0 55px 0 45px !important;
-  }
-}
-
 .item-detail-text {
   font-family: Arial, sans-serif;
   font-size: 13px;
   line-height: 19px;
-}
-
-@media (min-width: 480px) {
-  .item-pricing-alignment-desktop > div {
-    text-align: right !important;
-  }
 }
 
 .purchase-price-text {
@@ -79,19 +54,50 @@
   text-transform: uppercase;
 }
 
-.data-spacing th {
-  padding: 0 0 6px 0;
-  text-align: left;
-}
-
-.data-spacing td {
-  padding: 0 0 6px 0;
-  text-align: right;
-}
-
 .order-status-text {
   font-family: Arial, sans-serif;
   font-size: 13px;
   line-height: 18px;
   letter-spacing: -0.2px;
+}
+
+/* Responsiveness */
+
+@media (min-width: 480px) {
+  .order-items-align-desktop
+    > table
+    > tbody
+    > tr
+    > td
+    > table
+    > tbody
+    > tr
+    > td
+    > div {
+    text-align: left !important;
+  }
+}
+
+@media (min-width: 480px) {
+  .order-items-padding-desktop > table > tbody > tr > td {
+    padding: 0 55px 0 45px !important;
+  }
+}
+
+@media (min-width: 480px) {
+  .item-pricing-alignment-desktop > div {
+    text-align: right !important;
+  }
+}
+
+/* Spacing */
+
+.data-spacing th {
+  padding: 0 0 6px 0;
+  text-align: left !important;
+}
+
+.data-spacing td {
+  padding: 0 0 6px 0;
+  text-align: right !important;
 }
