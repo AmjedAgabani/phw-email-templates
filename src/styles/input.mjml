@@ -1,0 +1,7 @@
+<mj-style>
+  @media (min-width: 480px) {
+  .cta-button-desktop-height > table > tbody > tr > td {
+  height: 50px !important;
+  }
+  }
+</mj-style>

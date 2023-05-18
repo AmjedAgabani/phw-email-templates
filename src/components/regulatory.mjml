@@ -1,17 +1,15 @@
 <mj-section padding="0 15px">
   <mj-column>
-    <mj-text align="center">
-      <span class="regulatory-text grey"><a href="#">Digital River UK</a>. is the authorized reseller and merchant of the products and services offered within this store.</span>
+    <mj-text align="center" mj-class="regulatory-text grey">
+      <a class="inherit-color" href="#">Digital River UK</a>. is the authorized reseller and merchant of the products and services offered within this store.
     </mj-text>
     <mj-spacer height="10px" />
-    <mj-text align="center">
-      <span class="regulatory-text grey">
-        <a href="#" style="padding:0 5px;">Privacy Policy</a>|
-        <a href="#" style="padding:0 5px;">Terms of sale</a>|
-        <a href="#" style="padding:0 5px;">Cookies</a>|
-        <a href="#" style="padding:0 5px;">Cancellation Right</a>|
-        <a href="#" style="padding:0 5px;">Legal Notice</a>
-      </span>
+    <mj-text align="center" mj-class="regulatory-text grey">
+      <a class="inherit-color" href="#" style="padding:0 5px;">Privacy Policy</a>|
+      <a class="inherit-color" href="#" style="padding:0 5px;">Terms of sale</a>|
+      <a class="inherit-color" href="#" style="padding:0 5px;">Cookies</a>|
+      <a class="inherit-color" href="#" style="padding:0 5px;">Cancellation Right</a>|
+      <a class="inherit-color" href="#" style="padding:0 5px;">Legal Notice</a>
     </mj-text>
   </mj-column>
 </mj-section>

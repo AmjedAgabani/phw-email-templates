@@ -1,4 +1,4 @@
-<mj-section background-color="#fff">
+<mj-section mj-class="whitebg">
   <mj-column>
     <mj-spacer css-class="hidden-desktop" height="20px" />
     <mj-spacer css-class="hidden-mobile" height="30px" />
@@ -11,7 +11,7 @@
           <td style="width:7px">
           </td>
           <td class="support-text support-text-desktop dark-grey">
-            Questions? We're here to help. <a href="#" class="dark-grey">Contact support.</a>
+            Questions? We're here to help. <a href="#" class="inherit-color">Contact support.</a>
           </td>
         </tr>
       </table>
