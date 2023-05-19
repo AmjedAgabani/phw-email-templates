@@ -1,3 +1,9 @@
+<!-- 
+  Requires 
+../../styles/mj-class/bgcolors.mjml
+../../styles/mj-class/responsive.mjml 
+-->
+
 <mj-section mj-class="whitebg">
   <mj-column>
     <mj-spacer css-class="hidden-desktop" height="20px" />

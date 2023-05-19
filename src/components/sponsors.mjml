@@ -1,3 +1,8 @@
+<!-- 
+  Requires 
+../../styles/mj-class/responsive.mjml 
+-->
+
 <mj-section padding="0 15px">
   <mj-column>
     <mj-spacer css-class="hidden-desktop" height="27px" />

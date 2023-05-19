@@ -52,11 +52,11 @@
 
   .data-spacing th {
   padding: 0 0 6px 0;
-  text-align: left !important;
+  text-align: left
   }
 
   .data-spacing td {
   padding: 0 0 6px 0;
-  text-align: right !important;
+  text-align: right
   }
 </mj-style>

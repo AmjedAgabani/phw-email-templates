@@ -1,3 +1,9 @@
+<!-- 
+  Requires 
+../../styles/css/responsive.mjml 
+../../styles/mj-class/typography.mjml 
+-->
+
 <mj-section padding="0 15px">
   <mj-column>
     <mj-text align="center" mj-class="regulatory-text grey">
