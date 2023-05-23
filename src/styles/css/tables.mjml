@@ -1,0 +1,62 @@
+<mj-style>
+  .list-price-text {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  line-height: 17px;
+  }
+
+  @media (min-width: 480px) {
+  .item-name-text-desktop {
+  font-size: 16px !important;
+  }
+  }
+
+  .data-text th,
+  .data-text td {
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+  }
+
+  /* Responsiveness */
+
+  @media (min-width: 480px) {
+  .order-items-align-desktop
+  > table
+  > tbody
+  > tr
+  > td
+  > table
+  > tbody
+  > tr
+  > td
+  > div {
+  text-align: left !important;
+  }
+  }
+
+  @media (min-width: 480px) {
+  .order-items-padding-desktop > table > tbody > tr > td {
+  padding: 0 55px 0 45px !important;
+  }
+  }
+
+  @media (min-width: 480px) {
+  .item-pricing-alignment-desktop > div {
+  text-align: right !important;
+  }
+  }
+
+  /* Spacing */
+
+  .data-spacing th {
+  padding: 0 0 6px 0;
+  text-align: left
+  }
+
+  .data-spacing td {
+  padding: 0 0 6px 0;
+  text-align: right
+  }
+</mj-style>

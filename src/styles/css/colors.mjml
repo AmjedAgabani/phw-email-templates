@@ -1,0 +1,14 @@
+<mj-style>
+  .dark-grey {
+    color: #2f3132;
+  }
+
+  .grey {
+    color: #697172;
+  }
+
+
+  .inherit-color {
+    color: inherit;
+  }
+</mj-style>
