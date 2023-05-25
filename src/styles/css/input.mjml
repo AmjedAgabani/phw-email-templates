@@ -4,4 +4,10 @@
   height: 50px !important;
   }
   }
+
+  @media(min-width: 480px){
+  .cta-button-desktop-width-300px > table{
+  width: 300px !important;
+  }
+  }
 </mj-style>

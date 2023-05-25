@@ -4,5 +4,5 @@
 
 <mj-class name="body-text" font-family="Arial, sans-serif" font-size="16px" line-height="22px" />
 <mj-class name="header-text" font-family="Arial, sans-serif" font-size="24px" line-height="29px" />
-
+<mj-class name="navbar-text" font-family="Arial, sans-serif" font-size="14px" font-weight="500" line-height="22px" />
 <mj-class name="regulatory-text" font-size="13px" line-height="18px" />

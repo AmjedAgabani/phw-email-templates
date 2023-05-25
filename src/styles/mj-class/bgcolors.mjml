@@ -1,3 +1,4 @@
+<mj-class name="blackbg" background-color="#000000" />
 <mj-class name="bluebg" background-color="#00b8fc" />
 <mj-class name="lightgreybg" background-color="#f4f4f4" />
 <mj-class name="whitebg" background-color="#ffffff" />

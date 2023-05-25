@@ -1,0 +1,17 @@
+<mj-section css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+  <mj-column border="1px solid #cccccc">
+    <mj-spacer height="30px" />
+    <mj-text align="center" mj-class="body-text black bold uppercase">
+      Other questions
+    </mj-text>
+    <mj-spacer height="12px" />
+    <mj-text align="center" mj-class="body-text black">
+      Learn more about
+    </mj-text>
+    <mj-spacer height="12px" />
+    <mj-text align="center" mj-class="body-text black">
+      <a href="#">Returns</a>
+    </mj-text>
+    <mj-spacer height="30px" />
+  </mj-column>
+</mj-section>

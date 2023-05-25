@@ -8,14 +8,14 @@
       <mj-include path="../../styles/mj-class/tables.mjml" />
       <mj-include path="../../styles/mj-class/typography.mjml" />
     </mj-attributes>
-    <mj-preview>Preview</mj-preview>
+    <mj-preview>Shipment confirmation for order #1234567891234</mj-preview>
     <mj-include path="../../styles/css/colors.mjml" />
     <mj-include path="../../styles/css/images.mjml" />
     <mj-include path="../../styles/css/input.mjml" />
     <mj-include path="../../styles/css/responsive.mjml" />
     <mj-include path="../../styles/css/tables.mjml" />
     <mj-include path="../../styles/css/typography.mjml" />
-    <mj-title>Title</mj-title>
+    <mj-title>Shipment confirmation for order #1234567891234</mj-title>
   </mj-head>
 
   <mj-body mj-class="lightgreybg" width="746px">
@@ -59,7 +59,7 @@
             Track your order
           </mj-button>
           <mj-text mj-class="body-text black">
-            Tracking Number: 1ZA0Y3156815519604
+            Tracking Number: 1AB2C3456789123456
           </mj-text>
           <mj-spacer height="20px" />
         </mj-column>
@@ -158,7 +158,7 @@
           </mj-text>
           <mj-spacer height="8px" />
           <mj-text mj-class="body-text black">
-            <span class="bold">Order '#':</span> 1898929834439
+            <span class="bold">Order '#':</span> 1234567891234
           </mj-text>
         </mj-column>
         <mj-column width="40%">
