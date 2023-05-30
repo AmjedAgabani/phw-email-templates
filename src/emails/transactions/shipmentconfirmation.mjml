@@ -5,8 +5,8 @@
       <mj-include path="../../styles/mj-class/bgcolors.mjml" />
       <mj-include path="../../styles/mj-class/colors.mjml" />
       <mj-include path="../../styles/mj-class/input.mjml" />
-      <mj-include path="../../styles/mj-class/tables.mjml" />
       <mj-include path="../../styles/mj-class/typography.mjml" />
+      <mj-include path="../../styles/mj-class/typography-items.mjml" />
     </mj-attributes>
     <mj-preview>Shipment confirmation for order #1234567891234</mj-preview>
     <mj-include path="../../styles/css/colors.mjml" />

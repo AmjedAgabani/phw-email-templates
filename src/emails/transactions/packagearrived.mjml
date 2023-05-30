@@ -5,17 +5,17 @@
       <mj-include path="../../styles/mj-class/bgcolors.mjml" />
       <mj-include path="../../styles/mj-class/colors.mjml" />
       <mj-include path="../../styles/mj-class/input.mjml" />
-      <mj-include path="../../styles/mj-class/tables.mjml" />
       <mj-include path="../../styles/mj-class/typography.mjml" />
+      <mj-include path="../../styles/mj-class/typography-items.mjml" />
     </mj-attributes>
-    <mj-preview>Your package has been arrived!</mj-preview>
+    <mj-preview>Your package has arrived!</mj-preview>
     <mj-include path="../../styles/css/colors.mjml" />
     <mj-include path="../../styles/css/input.mjml" />
     <mj-include path="../../styles/css/responsive.mjml" />
     <mj-include path="../../styles/css/tables.mjml" />
     <mj-include path="../../styles/css/typography.mjml" />
     <mj-include path="../../styles/css/typography-items.mjml" />
-    <mj-title>Your package has been arrived!</mj-title>
+    <mj-title>Your package has arrived!</mj-title>
   </mj-head>
 
   <mj-body mj-class="lightgreybg" width="746px">
@@ -57,6 +57,8 @@
 
     <!-- Item details -->
 
+    <!-- Item details -->
+
     <mj-section css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
       <mj-column>
         <mj-text align="center" mj-class="body-text black">
@@ -64,27 +66,26 @@
         </mj-text>
         <mj-spacer height="10px" />
         <mj-divider border-color="#e1e2e3" border-width="2px" />
-        <mj-spacer height="10px" />
-        <mj-table>
-          <tr>
-            <td style="padding-right:20px;" width="151px">
-              <img src="https://ci3.googleusercontent.com/proxy/XVdiJilvufDwrW0xj6XzANRfTuN4vKS4JWJIuEAYTZScP0H_0dk6Bu2dRrRNXN_ria_8NDJpBnMjlG5LlYqdBpfdw965N9Jl84Lsd2k2fd5YnZDPfXErSXW072EVDJdSRlhFk3jhE0aKWyidaXXLRmapjcbDXz_OS9L8=s0-d-e1-ft#https://resource.logitech.com/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-1.png" width="100%" />
-            </td>
-            <td>
-              <span class="item-name-text item-name-text-desktop dark-grey bold uppercase">
-                Pro X Keyboard - Black US International Linear
-              </span>
-              <br>
-              <span class="item-detail-text grey">
-                Color: Black
-                <br>
-                Quantity: 1
-              </span>
-            </td>
-          </tr>
-        </mj-table>
-        <mj-spacer height="10px" />
+        <mj-spacer height="20px" />
       </mj-column>
+    </mj-section>
+
+    <mj-section css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+      <mj-group>
+        <mj-column width="32%">
+          <mj-image align="left" padding-right="20px" src="https://ci3.googleusercontent.com/proxy/XVdiJilvufDwrW0xj6XzANRfTuN4vKS4JWJIuEAYTZScP0H_0dk6Bu2dRrRNXN_ria_8NDJpBnMjlG5LlYqdBpfdw965N9Jl84Lsd2k2fd5YnZDPfXErSXW072EVDJdSRlhFk3jhE0aKWyidaXXLRmapjcbDXz_OS9L8=s0-d-e1-ft#https://resource.logitech.com/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-1.png" width="151px" />
+        </mj-column>
+        <mj-column>
+          <mj-text align="left" css-class="item-name-text-desktop" mj-class="item-name-text dark-grey bold uppercase">
+            Pro X Keyboard - Black US International Linear
+          </mj-text>
+          <mj-text align="left" mj-class="item-detail-text grey">
+            Color: Black
+            <br>
+            Quantity: 1
+          </mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
 
     <!-- Spacer -->

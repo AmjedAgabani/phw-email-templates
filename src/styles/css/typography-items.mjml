@@ -1,25 +1,25 @@
 <mj-style>
   .item-detail-text {
-    font-family: Arial, sans-serif;
-    font-size: 13px;
-    line-height: 19px;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  line-height: 19px;
   }
 
   .item-name-text {
-    font-family: Arial, sans-serif;
-    font-size: 13px;
-    line-height: 22px;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  line-height: 22px;
   }
 
   .list-price-text {
-    font-family: Arial, sans-serif;
-    font-size: 13px;
-    line-height: 17px;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  line-height: 17px;
   }
 
   @media (min-width: 480px) {
-    .item-name-text-desktop {
-      font-size: 16px !important;
-    }
+  .item-name-text-desktop > div {
+  font-size: 16px !important;
+  }
   }
 </mj-style>
