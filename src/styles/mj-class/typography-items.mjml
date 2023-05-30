@@ -1,6 +1,6 @@
 <mj-class name="table-title-text" font-family="Arial, sans-serif" font-size="14px" line-height="18px" />
 <mj-class name="product-line-text" font-family="Arial, sans-serif" font-size="13px" line-height="18px" />
+<mj-class name="item-detail-text" font-family="Arial, sans-serif" font-size="14px" line-height="24px" />
 <mj-class name="item-name-text" font-family="Arial, sans-serif" font-size="13px" line-height="22px" />
-<mj-class name="item-detail-text" font-family="Arial, sans-serif" font-size="13px" line-height="19x" />
 <mj-class name="purchase-price-text" font-family="Arial, sans-serif" font-size="16px" line-height="17px" />
 <mj-class name="order-status-text" font-family="Arial, sans-serif" font-size="13px" line-height="18px" letter-spacing="-0.2px" />

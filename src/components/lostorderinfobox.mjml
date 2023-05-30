@@ -1,0 +1,17 @@
+<mj-section css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+  <mj-column border="1px solid #cccccc" padding="0 30px">
+    <mj-spacer height="30px" />
+    <mj-text align="center" mj-class="body-text black bold uppercase">
+      Can't find your order?
+    </mj-text>
+    <mj-spacer height="12px" />
+    <mj-text align="center" mj-class="body-text black">
+      This happens sometimes. Carriers occasionally mark packages as ‘Delivered’ before they’re dropped off. Please contact the carrier if it has been more than 2 hours since you got a delivery notification.
+    </mj-text>
+    <mj-spacer height="12px" />
+    <mj-text align="center" mj-class="body-text black">
+      <a href="#">Contact Us</a>
+    </mj-text>
+    <mj-spacer height="30px" />
+  </mj-column>
+</mj-section>

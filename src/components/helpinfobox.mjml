@@ -1,0 +1,17 @@
+<mj-section css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+  <mj-column border="1px solid #cccccc" padding="0 30px">
+    <mj-spacer height="30px" />
+    <mj-text align="center" mj-class="body-text black bold uppercase">
+      Need help?
+    </mj-text>
+    <mj-spacer height="12px" />
+    <mj-text align="center" mj-class="body-text black">
+      Our friendly Customer Service Team is here to assist you. If you have any questions please contact us.
+    </mj-text>
+    <mj-spacer height="12px" />
+    <mj-text align="center" mj-class="body-text black">
+      <a href="#">Contact Us</a>
+    </mj-text>
+    <mj-spacer height="30px" />
+  </mj-column>
+</mj-section>

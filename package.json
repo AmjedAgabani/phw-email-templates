@@ -1,5 +1,5 @@
 {
-  "name": "phw-email-templates",
+  "name": "phw-email-templates-transaction",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AmjedAgabani/phw-email-templates.git"
+    "url": "git+https://github.com/AmjedAgabani/phw-email-templates-transaction.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AmjedAgabani/phw-email-templates/issues"
+    "url": "https://github.com/AmjedAgabani/phw-email-templates-transaction/issues"
   },
-  "homepage": "https://github.com/AmjedAgabani/phw-email-templates#readme",
+  "homepage": "https://github.com/AmjedAgabani/phw-email-templates-transaction#readme",
   "devDependencies": {
     "browser-sync": "^2.29.1",
     "gulp": "^4.0.2",

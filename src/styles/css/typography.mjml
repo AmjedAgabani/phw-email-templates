@@ -3,6 +3,10 @@
     font-weight: 700;
   }
 
+  .uppercase {
+    text-transform: uppercase;
+  }
+
   .line-through {
     text-decoration: line-through;
   }

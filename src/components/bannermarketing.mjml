@@ -1,0 +1,21 @@
+<mj-section mj-class="blackbg">
+  <mj-column>
+    <mj-spacer height="15px" />
+    <mj-image href="https://www.google.co.uk" src="https://ci6.googleusercontent.com/proxy/Qzxjjl7XmokFIynMTf9S5wVeLU6pav54ezjcu0umdS1n4VCjSLl82a_xWd-o545EHTA--UfA_r9etr6bfCoKqt2QWp1lvT7PaAkyg39Itls2fHXXMsuOvb0LLkvWYeKaL2yVgL_kPjjNeoKbIOiTdL0t43y5=s0-d-e1-ft#https://assets.narvar.com/retailers/logitechg/D_2018080697_168f95d10cf0471f9d0be8795281ce86@2x.png" width="120px" />
+    <mj-spacer height="15px" />
+  </mj-column>
+</mj-section>
+
+<mj-section css-class="desktop-padding" mj-class="whitebg">
+  <mj-column>
+    <mj-spacer height="10px" />
+    <mj-navbar hamburger="hamburger">
+      <mj-navbar-link href="#" mj-class="blue navbar-text uppercase" padding="10px 25px">Gaming mice</mj-navbar-link>
+      <mj-navbar-link href="#" mj-class="blue navbar-text uppercase" padding="10px 25px">Gaming mousepads</mj-navbar-link>
+      <mj-navbar-link href="#" mj-class="blue navbar-text uppercase" padding="10px 25px">Gaming keyboards</mj-navbar-link>
+      <mj-navbar-link href="#" mj-class="blue navbar-text uppercase" padding="10px 25px">Gaming audio</mj-navbar-link>
+      <mj-navbar-link href="#" mj-class="blue navbar-text uppercase" padding="10px 25px">Streaming gear</mj-navbar-link>
+    </mj-navbar>
+    <mj-spacer height="35px" />
+  </mj-column>
+</mj-section>
