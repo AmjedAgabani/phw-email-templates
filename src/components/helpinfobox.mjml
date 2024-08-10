@@ -1,4 +1,13 @@
-<mj-section css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+<!-- 
+  Requires 
+../../styles/mj-class/bgcolors.mjml 
+../../styles/mj-class/colors.mjml 
+../../styles/mj-class/responsive.mjml 
+../../styles/mj-class/typography.mjml 
+-->
+
+
+<mj-section css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
   <mj-column border="1px solid #cccccc" padding="0 30px">
     <mj-spacer height="30px" />
     <mj-text align="center" mj-class="body-text black bold uppercase">

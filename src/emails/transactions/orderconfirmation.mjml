@@ -19,7 +19,7 @@
     <mj-title>Order confirmation for order #1234567890123</mj-title>
   </mj-head>
 
-  <mj-body mj-class="lightgreybg" width="746px">
+  <mj-body mj-class="light-grey-bg" width="746px">
 
     <!-- Banner -->
 
@@ -27,7 +27,7 @@
 
     <!-- Body text -->
 
-    <mj-section css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+    <mj-section css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-column>
         <mj-spacer css-class="hidden-desktop" height="19px" />
         <mj-spacer css-class="hidden-mobile" height="60px" />
@@ -45,7 +45,7 @@
 
     <!-- Delivery details -->
 
-    <mj-wrapper css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+    <mj-wrapper css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-section>
         <mj-column>
           <mj-text align="center" container-background-color="#2e3232" mj-class="table-title-text white bold uppercase" padding="10px">
@@ -53,7 +53,7 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section border-bottom="1px solid #c7c9cb" border-left="1px solid #c7c9cb" border-right="1px solid #c7c9cb" mj-class="whitebg" padding-left="20px">
+      <mj-section border-bottom="1px solid #c7c9cb" border-left="1px solid #c7c9cb" border-right="1px solid #c7c9cb" mj-class="white-bg" padding-left="20px">
         <mj-column>
           <mj-spacer height="20px" />
           <mj-text mj-class="body-text black bold">
@@ -83,7 +83,7 @@
       </mj-section>
     </mj-wrapper>
 
-    <mj-section mj-class="whitebg">
+    <mj-section mj-class="white-bg">
       <mj-column>
         <mj-spacer css-class="hidden-desktop" height="15px" />
         <mj-spacer css-class="hidden-mobile" height="30px" />
@@ -92,7 +92,7 @@
 
     <!-- Order items -->
 
-    <mj-wrapper css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+    <mj-wrapper css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-section>
         <mj-column>
           <mj-text align="center" container-background-color="#2e3232" mj-class="table-title-text white bold uppercase" padding="10px">
@@ -137,7 +137,7 @@
 
     <!-- Order item divider -->
 
-    <mj-wrapper css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+    <mj-wrapper css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-section border-left="1px solid #c7c9cb" border-right="1px solid #c7c9cb" css-class="order-items-padding-desktop" padding="0 11px">
         <mj-column>
           <mj-spacer css-class="hidden-desktop" height="26px" />
@@ -149,7 +149,7 @@
 
     <!-- Order table -->
 
-    <mj-wrapper css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+    <mj-wrapper css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-section border-bottom="1px solid #c7c9cb" border-left="1px solid #c7c9cb" border-right="1px solid #c7c9cb" padding="0 11px">
         <mj-column css-class="hidden-mobile" width="33%">
         </mj-column>
@@ -175,7 +175,7 @@
           </mj-table>
           <mj-spacer css-class="hidden-desktop" height="22px" />
           <mj-spacer css-class="hidden-mobile" height="30px" />
-          <mj-button css-class="cta-button-desktop-height" mj-class="cta-button bluebg cta-button-text black bold uppercase" href="https://www.google.co.uk" width="100%">
+          <mj-button css-class="cta-button-desktop-height" mj-class="cta-button blue-bg cta-button-text black bold uppercase" href="https://www.google.co.uk" width="100%">
             See your account
           </mj-button>
           <mj-spacer height="10px" />

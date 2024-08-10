@@ -4,7 +4,7 @@
 ../../styles/mj-class/responsive.mjml 
 -->
 
-<mj-section mj-class="whitebg">
+<mj-section mj-class="white-bg">
   <mj-column>
     <mj-spacer css-class="hidden-desktop" height="20px" />
     <mj-spacer css-class="hidden-mobile" height="30px" />

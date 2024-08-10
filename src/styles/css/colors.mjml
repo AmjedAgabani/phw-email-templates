@@ -3,12 +3,11 @@
     color: #2f3132;
   }
 
-  .grey {
-    color: #697172;
-  }
-
-
   .inherit-color {
     color: inherit;
+  }
+
+  .grey {
+    color: #697172;
   }
 </mj-style>

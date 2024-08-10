@@ -18,7 +18,7 @@
     <mj-title>Your package has arrived!</mj-title>
   </mj-head>
 
-  <mj-body mj-class="lightgreybg" width="746px">
+  <mj-body mj-class="light-grey-bg" width="746px">
 
     <!-- Banner Marketing -->
 
@@ -26,7 +26,7 @@
 
     <!-- Body text -->
 
-    <mj-section css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+    <mj-section css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-column>
         <mj-text color="#767676" font-family="Arial, sans-serif" font-size="14px" letter-spacing="0px" line-height="1">
           Order #: 1234567891234 | Order date: Apr 9, 2023
@@ -48,7 +48,7 @@
           12 South Street, London, NW16 3KQ
         </mj-text>
         <mj-spacer height="25px" />
-        <mj-button align="left" css-class="cta-button-desktop-height cta-button-desktop-width-300px" mj-class="cta-button bluebg cta-button-text white bold uppercase" href="https://www.google.co.uk" width="100%">
+        <mj-button align="left" css-class="cta-button-desktop-height cta-button-desktop-width-300px" mj-class="cta-button blue-bg cta-button-text white bold uppercase" href="https://www.google.co.uk" width="100%">
           See full order details
         </mj-button>
         <mj-spacer height="45px" />
@@ -59,7 +59,7 @@
 
     <!-- Item details -->
 
-    <mj-section css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+    <mj-section css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-column>
         <mj-text align="center" mj-class="body-text black">
           In This Package
@@ -70,7 +70,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section css-class="desktop-padding" mj-class="whitebg" padding="0 15px">
+    <mj-section css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-group>
         <mj-column width="32%">
           <mj-image align="left" padding-right="20px" src="https://ci3.googleusercontent.com/proxy/XVdiJilvufDwrW0xj6XzANRfTuN4vKS4JWJIuEAYTZScP0H_0dk6Bu2dRrRNXN_ria_8NDJpBnMjlG5LlYqdBpfdw965N9Jl84Lsd2k2fd5YnZDPfXErSXW072EVDJdSRlhFk3jhE0aKWyidaXXLRmapjcbDXz_OS9L8=s0-d-e1-ft#https://resource.logitech.com/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-1.png" width="151px" />
@@ -90,7 +90,7 @@
 
     <!-- Spacer -->
 
-    <mj-section mj-class="whitebg">
+    <mj-section mj-class="white-bg">
       <mj-column>
         <mj-spacer height="30px" />
       </mj-column>
@@ -102,7 +102,7 @@
 
     <!-- Spacer -->
 
-    <mj-section mj-class="whitebg">
+    <mj-section mj-class="white-bg">
       <mj-column>
         <mj-spacer height="40px" />
       </mj-column>
@@ -114,7 +114,7 @@
 
     <!-- Spacer -->
 
-    <mj-section mj-class="whitebg">
+    <mj-section mj-class="white-bg">
       <mj-column>
         <mj-spacer height="60px" />
       </mj-column>
