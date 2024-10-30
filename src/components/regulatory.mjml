@@ -7,7 +7,7 @@
 <mj-section padding="0 15px">
   <mj-column>
     <mj-text align="center" mj-class="regulatory-text grey">
-      <a class="inherit-color" href="#">Digital River UK</a>. is the authorized reseller and merchant of the products and services offered within this store.
+      <a class="inherit-color" href="#">Pioneer Hardware World</a>. is the authorized reseller and merchant of the products and services offered within this store.
     </mj-text>
     <mj-spacer height="10px" />
     <mj-text align="center" mj-class="regulatory-text grey">
@@ -17,5 +17,7 @@
       <a class="inherit-color" href="#" style="padding:0 5px;">Cancellation Right</a>|
       <a class="inherit-color" href="#" style="padding:0 5px;">Legal Notice</a>
     </mj-text>
+    <mj-spacer css-class="hidden-desktop" height="27px" />
+    <mj-spacer css-class="hidden-mobile" height="35px" />
   </mj-column>
 </mj-section>

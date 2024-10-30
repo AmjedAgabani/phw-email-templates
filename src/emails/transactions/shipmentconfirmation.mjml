@@ -104,16 +104,16 @@
       </mj-section>
       <mj-section border-bottom="1px solid #c7c9cb" border-left="1px solid #c7c9cb" border-right="1px solid #c7c9cb" css-class="order-items-padding-desktop">
         <mj-column>
-          <mj-image css-class="item-image-desktop-width" src="https://ci3.googleusercontent.com/proxy/XVdiJilvufDwrW0xj6XzANRfTuN4vKS4JWJIuEAYTZScP0H_0dk6Bu2dRrRNXN_ria_8NDJpBnMjlG5LlYqdBpfdw965N9Jl84Lsd2k2fd5YnZDPfXErSXW072EVDJdSRlhFk3jhE0aKWyidaXXLRmapjcbDXz_OS9L8=s0-d-e1-ft#https://resource.logitech.com/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-1.png" width="230px" />
+          <mj-image css-class="item-image-desktop-width" src="{{imgBaseUrl}}/black-power-drill.png" width="230px" />
           <mj-spacer height="10px" />
         </mj-column>
         <mj-column css-class="order-items-align-desktop">
           <mj-text align="center" mj-class="product-line-text grey bold uppercase">
-            Logitech G
+            Pioneer Hardware World
           </mj-text>
           <mj-spacer height="12px" />
           <mj-text align="center" mj-class="item-name-text dark-grey bold uppercase">
-            <span class="item-name-text-desktop">Pro X Keyboard - Black US International Linear</span>
+            <span class="item-name-text-desktop">Pro Power Drill - Compact 18V</span>
           </mj-text>
           <mj-spacer height="11px" />
           <mj-text align="center" mj-class="item-detail-text grey">
@@ -198,11 +198,6 @@
     <!-- Regulatory Statement -->
 
     <mj-include path="../../components/regulatory.mjml" />
-
-    <!-- Sponsors -->
-
-    <mj-include path="../../components/sponsors.mjml" />
-
 
   </mj-body>
 
