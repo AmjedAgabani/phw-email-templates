@@ -57,8 +57,6 @@
 
     <!-- Item details -->
 
-    <!-- Item details -->
-
     <mj-section css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-column>
         <mj-text align="center" mj-class="body-text black">
@@ -73,11 +71,11 @@
     <mj-section css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-group>
         <mj-column width="32%">
-          <mj-image align="left" padding-right="20px" src="https://ci3.googleusercontent.com/proxy/XVdiJilvufDwrW0xj6XzANRfTuN4vKS4JWJIuEAYTZScP0H_0dk6Bu2dRrRNXN_ria_8NDJpBnMjlG5LlYqdBpfdw965N9Jl84Lsd2k2fd5YnZDPfXErSXW072EVDJdSRlhFk3jhE0aKWyidaXXLRmapjcbDXz_OS9L8=s0-d-e1-ft#https://resource.logitech.com/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-1.png" width="151px" />
+          <mj-image align="left" padding-right="20px" src="{{imgBaseUrl}}/black-power-drill.png" width="151px" />
         </mj-column>
         <mj-column>
           <mj-text align="left" css-class="item-name-text-desktop" mj-class="item-name-text dark-grey bold uppercase">
-            Pro X Keyboard - Black US International Linear
+            Pro Power Drill - Compact 18V
           </mj-text>
           <mj-text align="left" mj-class="item-detail-text grey">
             Color: Black
@@ -127,10 +125,6 @@
     <!-- Regulatory Statement -->
 
     <mj-include path="../../components/regulatory.mjml" />
-
-    <!-- Sponsors -->
-
-    <mj-include path="../../components/sponsors.mjml" />
 
   </mj-body>
 

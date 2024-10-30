@@ -75,11 +75,11 @@
     <mj-section css-class="desktop-padding" mj-class="white-bg" padding="0 15px">
       <mj-group>
         <mj-column width="32%">
-          <mj-image align="left" padding-right="20px" src="https://ci3.googleusercontent.com/proxy/XVdiJilvufDwrW0xj6XzANRfTuN4vKS4JWJIuEAYTZScP0H_0dk6Bu2dRrRNXN_ria_8NDJpBnMjlG5LlYqdBpfdw965N9Jl84Lsd2k2fd5YnZDPfXErSXW072EVDJdSRlhFk3jhE0aKWyidaXXLRmapjcbDXz_OS9L8=s0-d-e1-ft#https://resource.logitech.com/content/dam/gaming/en/products/pro-x-keyboard/pro-x-keyboard-gallery-1.png" width="151px" />
+          <mj-image align="left" padding-right="20px" src="{{imgBaseUrl}}/black-power-drill.png" width="151px" />
         </mj-column>
         <mj-column>
           <mj-text align="left" css-class="item-name-text-desktop" mj-class="item-name-text dark-grey bold uppercase">
-            Pro X Keyboard - Black US International Linear
+            Pro Power Drill - Compact 18V
           </mj-text>
           <mj-text align="left" mj-class="item-detail-text grey">
             Color: Black
@@ -101,7 +101,7 @@
           You may also like...
         </mj-text>
         <mj-spacer height="10px" />
-        <mj-image href="https://www.google.co.uk" src="https://ci6.googleusercontent.com/proxy/puSR9Lu6r9Jxfxg8RZpd9d-4SWfR9IE0z6RQKy6-rJyuxMM1RBQVlE5rOVhSD_x0b0GQCubd--YUlXxIdeFheY3C_5Aas1ox48RXma7yPLyoBvE0VcmeWSo2lfRH0YY03hq4gXcVJbIwhgpX36w5KogdPMrs=s0-d-e1-ft#https://assets.narvar.com/retailers/logitechg/D_2020031628_7d275c0116e940d280b1964a9da6c9b9@2x.jpg" width="546px" />
+        <mj-image href="https://www.google.co.uk" src="{{imgBaseUrl}}/promo.jpg" width="546px" />
         <mj-spacer height="20px" />
         <mj-divider border-color="#e1e2e3" border-width="2px" />
       </mj-column>
@@ -134,10 +134,6 @@
     <!-- Regulatory Statement -->
 
     <mj-include path="../../components/regulatory.mjml" />
-
-    <!-- Sponsors -->
-
-    <mj-include path="../../components/sponsors.mjml" />
 
   </mj-body>
 

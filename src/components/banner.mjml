@@ -7,7 +7,7 @@
   <mj-column>
     <mj-spacer css-class="hidden-desktop" height="23px" />
     <mj-spacer css-class="hidden-mobile" height="60px" />
-    <mj-image href="#" src="https://ci4.googleusercontent.com/proxy/Pr0lwCeR-sWwaMI6dwBPsETpk1hSCudIcpeMN_VkRs2IAnxgusnqjJOyat32ySqFeE2nDFDhapoQq8AXTumyDkP_OERHjFF1OQ8MuWeptSNF38NHAZxxFfKRvn7VULsOGRBLSUUYJ950CL8JDZzEe0fsHPlVPeUMauOOqzgkHMH-=s0-d-e1-ft#https://commerce-prd.logitech.com/on/demandware.static/Sites-GB-Site/-/default/dwa90d573c/images/logitechg.png" width="230px" />
+    <mj-image href="#" src="{{imgBaseUrl}}/phw-logo-black.png" width="230px" />
     <mj-spacer css-class="hidden-desktop" height="23px" />
     <mj-spacer css-class="hidden-mobile" height="36px" />
   </mj-column>

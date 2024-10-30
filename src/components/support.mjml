@@ -12,7 +12,7 @@
       <table align="center">
         <tr>
           <td>
-            <img src="https://ci3.googleusercontent.com/proxy/Haqo-L4Z97C3Z-lbAVWfkbJxulsyzdIwmu9P8cWlIrLWNCTbKY7W8LQjo8cXWTnfEb6DDf6UHPb6Ctn6ihCn-4t1YZIeyZz-osG12-4pCEsSh7IkRI-WVtGC64Bh4Df2o8gC6rkeh_gVXAmGTAIby18t6wzQKCUHZiHBS-f41A=s0-d-e1-ft#https://commerce-prd.logitech.com/on/demandware.static/Sites-GB-Site/-/default/dw65a02e6f/images/message.png" width="25px" />
+            <img src="{{imgBaseUrl}}/speechbubble.png" width="25px" />
           </td>
           <td style="width:7px">
           </td>
