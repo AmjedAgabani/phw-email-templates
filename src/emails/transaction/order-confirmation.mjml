@@ -36,7 +36,7 @@
         </mj-text>
         <mj-spacer height="12px" />
         <mj-text align="center" mj-class="body-text dark-grey">
-          Thanks for your order <span class="bold">#1234567890123</span>, purchased on April 9, 2023 . Look for tracking information in your inbox soon.
+          Thanks for your order <span class="bold">#test</span>, purchased on April 9, 2023 . Look for tracking information in your inbox soon.
         </mj-text>
         <mj-spacer css-class="hidden-desktop" height="19px" />
         <mj-spacer css-class="hidden-mobile" height="30px" />
