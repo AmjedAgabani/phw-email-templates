@@ -1,7 +1,0 @@
-<mj-style>
-  @media (min-width: 480px) {
-  .item-image-desktop-width > table > tbody > tr > td {
-  width: 130px !important;
-  }
-  }
-</mj-style>
